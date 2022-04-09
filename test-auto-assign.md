@@ -1,2 +1,2 @@
 # Test
-Auto assgin
+Auto assgined
